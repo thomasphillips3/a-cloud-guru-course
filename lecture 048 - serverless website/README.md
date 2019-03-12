@@ -1,5 +1,9 @@
 # Serverless Notes App
-An app hosted in S3 which allows users to upload a typed note, and receive an MP3 of upload notes file.
+[An app hosted in S3](https://s3.amazonaws.com/thomasphillips3-notes-website/index.html) which allows users to upload a typed note, and receive an MP3 of upload notes file.
+* [Blueprint](https://cloudcraft.co/view/9f14694b-5844-4dc0-a264-5e0500768acc?key=QjAQizOnZR4dLwnn6EaYwA)
+* [Serverless Notes App](https://s3.amazonaws.com/thomasphillips3-notes-website/index.html)
+
+![](ServerlessNoteReader.png)
 
 ## Steps
 * Create DynamoDB
